@@ -105,10 +105,9 @@ img {
   padding: 20px;
   background: var(--green2);
   flex: 1;
-  align-items: center;
 }
 
-/* .col2 img {
+.col2 img {
   align-self: center;
   margin-bottom: 10px;
-} */
+}
